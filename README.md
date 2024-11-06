@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Gonzalez</h1>
-<h3 align="center">A passionate frontend deCTO | Cloud engineering | Business applied IA | SecDevOps enthusiast | Security and complianceveloper from Spain</h3>
+<h3 align="center">CTO | Cloud engineering | Business applied IA | SecDevOps enthusiast | Security and complianceveloper from Spain</h3>
 
 - 🔭 I’m currently working on [AI Platform for BPO: Post-mortgage AI solution with optimized workflows. DevOps Toolkit: Entrerprise tools for microservices and CI/CD validation.](https://bcds.net)
 
