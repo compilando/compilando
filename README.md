@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Oscar Gonzalez</h1>
 <h3 align="center">CTO | Cloud engineering | Business applied IA | SecDevOps enthusiast | Security and complianceveloper from Spain</h3>
 
-- 🔭 I’m currently working on [AI Platform for BPO: Post-mortgage AI solution with optimized workflows. DevOps Toolkit: Entrerprise tools for microservices and CI/CD validation.](https://bcds.net)
+📍 **Location**: Valdemorillo, Madrid, Spain
 
-- 👯 I’m looking to collaborate on **I’m always open to discussions around transformative tech strategies, best practices, and innovative approaches to DevOps and AI. - Advisory & Mentorship - Technical Partnerships - Industry Insights**
+🔭 **Currently working on**: Tech innovation and modernization for optimized operations in mortgage BPO at Grupo BC.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/oscargonzalezmoreno/](https://www.linkedin.com/in/oscargonzalezmoreno/)
+🌱 **Current interests**: Artificial Intelligence, cloud architecture, advanced automation, and optimization methodologies for technical teams.
 
-- 📝 I regularly write articles on [BYTE Magazine](BYTE Magazine)
+🚀 **Technical expertise**: DevOps, microservices, cloud computing, machine learning, API optimization, workflow design, agile and quality methodologies.
 
-- 📫 How to reach me **oscargonzalezmoreno@gmail.com**
+👯 **I’m looking to collaborate on**: I’m always open to discussions around transformative tech strategies, best practices, and innovative approaches to DevOps and AI.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oscargonzalezmoreno/](https://www.linkedin.com/in/oscargonzalezmoreno/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Advisory & Mentorship
+- Technical Partnerships
+- Industry Insights
+  
+📄 Know about my experiences [https://www.linkedin.com/in/oscargonzalezmoreno/](https://www.linkedin.com/in/oscargonzalezmoreno/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
