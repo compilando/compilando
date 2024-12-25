@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Gonzalez</h1>
 <h3 align="center">CTO | Cloud engineering | Business applied IA | SecDevOps enthusiast | Security and complianceveloper from Spain</h3>
 
-📍 **Location**: Valdemorillo, Madrid, Spain
+📍 **Location**: Madrid, Spain
 
 🔭 **Currently working on**: Tech innovation and modernization for optimized operations in mortgage BPO at Grupo BC.
 
